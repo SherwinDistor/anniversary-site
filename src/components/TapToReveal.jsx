@@ -68,8 +68,6 @@ export default function TapToReveal({ onReveal, TOGETHER_DATE }) {
 					transition={{ duration: 1 }}
 				>
 					<div className='absolute inset-0 bg-gradient-to-br from-pink-50 to-purple-50' />
-					<div className='absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-pink-400 to-purple-400' />
-					<div className='absolute bottom-0 right-0 w-full h-2 bg-gradient-to-r from-purple-400 to-pink-400' />
 				</motion.div>
 
 				<div className='relative z-10 space-y-8'>

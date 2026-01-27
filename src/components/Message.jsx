@@ -62,8 +62,8 @@ export default function Message({ message }) {
 				<div className='absolute inset-0 bg-gradient-to-br from-pink-50 to-purple-50 opacity-50' />
 
 				{/* Border gradients */}
-				<div className='absolute top-0 left-0 w-full h-2 rounded-se-lg bg-gradient-to-r from-pink-400 to-purple-400' />
-				<div className='absolute bottom-0 right-0 w-full h-2 rounded-bl-lg bg-gradient-to-r from-purple-400 to-pink-400' />
+				<div className='absolute top-0 left-0 w-full h-2 rounded-se-lg bg-gradient-to-r from-yellow-100 to-yellow-100' />
+				<div className='absolute bottom-0 right-0 w-full h-2 rounded-bl-lg bg-gradient-to-r from-yellow-100 to-yellow-100' />
 
 				{/* Decorative elements */}
 				<div className='absolute -top-5 -left-5 w-16 h-16 bg-pink-200 rounded-full flex items-center justify-center transform rotate-12'>

@@ -121,9 +121,6 @@ export default function Countdown({ targetDate, onComplete }) {
 					>
 						<div className='absolute inset-0 bg-gradient-to-br from-pink-100 to-purple-100 opacity-50' />
 
-						<div className='absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-pink-400 to-purple-400' />
-						<div className='absolute bottom-0 right-0 w-full h-1 bg-gradient-to-r from-purple-400 to-pink-400' />
-
 						<div className='relative p-6 flex flex-col items-center justify-center'>
 							<motion.div
 								className='text-4xl mb-3'

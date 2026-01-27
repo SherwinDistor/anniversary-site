@@ -63,9 +63,6 @@ export default function DaysTogether({ startDate, animationDuration = 3 }) {
 			<div className='absolute inset-0 bg-white rounded-3xl shadow-2xl overflow-hidden'>
 				<div className='absolute inset-0 bg-gradient-to-br from-pink-50 to-purple-50' />
 
-				<div className='absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-pink-400 to-purple-400' />
-				<div className='absolute bottom-0 right-0 w-full h-2 bg-gradient-to-r from-purple-400 to-pink-400' />
-
 				{/* Decorative elements */}
 				<div className='absolute top-4 left-4 text-4xl animate-float'>💖</div>
 				<div className='absolute bottom-4 right-4 text-4xl animate-float-delay'>
