@@ -12,7 +12,7 @@ import FloatingElements from '@/components/FloatingElements';
 import TapToReveal from '@/components/TapToReveal';
 
 // Change this to your anniversary date
-const ANNIVERSARY_DATE = '2026-01-28T00:00:00';
+const ANNIVERSARY_DATE = '2026-01-29T00:00:00';
 // Change this to the date you got together
 const TOGETHER_DATE = '2021-01-29T00:00:00';
 
@@ -60,7 +60,7 @@ export default function Home() {
 		{ src: '/image.png', alt: 'Growing old together' },
 		{ src: '/image2.png', alt: 'Never letting go' },
 		{ src: '/image3.png', alt: 'Lucky charm' },
-		{ src: '/image4.png', alt: 'Pease and love' },
+		{ src: '/image4.png', alt: 'Peace and love' },
 		{ src: '/image5.png', alt: 'My yellow💛' },
 		{ src: '/image6.png', alt: 'Winning at life with you by my side' },
 		{ src: '/image7.png', alt: 'Mom and dad' },
@@ -89,14 +89,13 @@ export default function Home() {
 		{ src: '/image30.png', alt: 'Sorry tri-delta...' },
 		{ src: '/image31.png', alt: 'Self care' },
 		{ src: '/image32.png', alt: 'First time camping and floating' },
-		{ src: '/image33.png', alt: 'Our favorite pass time' },
-		{ src: '/image34.png', alt: 'Remember when?' },
-		{ src: '/image35.png', alt: 'I love you' },
-		{ src: '/image36.png', alt: 'When we survived a tornado' },
-		{ src: '/image37.png', alt: 'The brail with my fav' },
-		{ src: '/image38.png', alt: 'Blurry nights' },
-		{ src: '/image39.png', alt: 'Take me back' },
-		{ src: '/image40.jpg', alt: 'Endless kisses' },
+		{ src: '/image33.png', alt: 'Remember when?' },
+		{ src: '/image34.png', alt: 'I love you' },
+		{ src: '/image35.png', alt: 'When we survived a tornado' },
+		{ src: '/image36.png', alt: 'The brail with my fav' },
+		{ src: '/image37.png', alt: 'Blurry nights' },
+		{ src: '/image38.png', alt: 'Take me back' },
+		{ src: '/image39.jpg', alt: 'Endless kisses' },
 	];
 
 	// Change this message according to you
